@@ -1,7 +1,7 @@
-TypeScript Mocha Chai Testing Demo
+TypeScript Mocha Chai Should Demo
 ==================================
 
-Use mocha and chai to write tests with typescript.
+在chai中如何使用`should`
 
 ```
 npm install
